@@ -1,7 +1,7 @@
 # About GamingFriends?
 With help of the Steam Web API I've created a lamp with a led strip which will show you how many of your steam friends are online.
 
-If you want to learn more about the project read the wiki
+If you want to learn more about the project read the [manual](https://github.com/Fr3akyBeakyLike/gamingFriends/blob/master/Manual.pdf)
 
 ## Functionalities
 * A ledstrip will light up one of it's lights when a friend comes online at Steam.
